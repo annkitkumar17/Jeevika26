@@ -2,9 +2,13 @@
   "name": "jeevika-saarthi-workspace",
   "version": "1.0.0",
   "private": true,
+  "workspaces": [
+    "Jeevika"
+  ],
   "scripts": {
     "dev": "npm run dev --prefix Jeevika",
     "build": "npm run build --prefix Jeevika",
+    "preview": "npm run preview --prefix Jeevika",
     "test": "npm run test --prefix Jeevika"
   }
 }
