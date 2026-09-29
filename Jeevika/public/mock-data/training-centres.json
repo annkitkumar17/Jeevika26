@@ -1,0 +1,50 @@
+[
+  {
+    "id": "tc-001",
+    "name": "Pradhan Mantri Kaushal Kendra (PMKK) Sadar",
+    "address": "Sector 4, Industrial Area, Sadar, Lucknow",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh",
+    "latitude": 26.8520,
+    "longitude": 80.9580,
+    "distanceKm": 4.2,
+    "contactPerson": "Ramesh Chandra (Centre Manager)",
+    "phone": "+91 94150 12345",
+    "accreditedSectors": ["Green Energy & Electronics", "Apparel & Textiles"],
+    "facilities": ["Solar Testing Lab", "Practical Workshop", "Hostel Available", "Free Bus Pickup"],
+    "rating": 4.8,
+    "dataStatus": "demo_seeded"
+  },
+  {
+    "id": "tc-002",
+    "name": "Jan Shikshan Sansthan (JSS) Rural Skill Hub",
+    "address": "Near Block Development Office, Chinhat, Lucknow",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh",
+    "latitude": 26.8845,
+    "longitude": 81.0112,
+    "distanceKm": 12.8,
+    "contactPerson": "Sunita Verma (Program Coordinator)",
+    "phone": "+91 94500 67890",
+    "accreditedSectors": ["Food Processing & Agriculture", "Apparel & Textiles"],
+    "facilities": ["Food Processing Demo Lab", "SHG Linkage Desk", "Child Care Facility"],
+    "rating": 4.6,
+    "dataStatus": "demo_seeded"
+  },
+  {
+    "id": "tc-003",
+    "name": "Government Industrial Training Institute (ITI) Alambagh",
+    "address": "VIP Road, Alambagh, Lucknow",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh",
+    "latitude": 26.8123,
+    "longitude": 80.9011,
+    "distanceKm": 8.5,
+    "contactPerson": "Dr. A. K. Srivastava (Principal)",
+    "phone": "+91 522 2451234",
+    "accreditedSectors": ["Green Energy & Electronics", "Automotive"],
+    "facilities": ["Govt Certification", "Tool Kit Subsidy Desk", "Stipend Support"],
+    "rating": 4.7,
+    "dataStatus": "demo_seeded"
+  }
+]

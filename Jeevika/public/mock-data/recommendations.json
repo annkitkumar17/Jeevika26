@@ -1,0 +1,184 @@
+[
+  {
+    "id": "pathway-solar-tech",
+    "rank": 1,
+    "qpCode": "ELE/Q6301",
+    "title": "Solar Pump Technician",
+    "nsqfLevel": 3,
+    "sector": "Green Energy & Electronics",
+    "suitabilityScore": 94,
+    "fitReason": "High alignment with existing 2 years experience in informal electrical and agricultural pump repair in rural Sadar.",
+    "matchReasons": [
+      "Extensive overlap with basic tool handling and mechanical repair background",
+      "Matches self-employment aspiration through PM-AJAY solar kiosk subsidy",
+      "High seasonal demand in local block due to PM-KUSUM solar pump installations"
+    ],
+    "skillGaps": [
+      "Solar PV array wiring safety (20 hrs)",
+      "Digital multimeter diagnostics (15 hrs)",
+      "Customer inverter maintenance app usage (10 hrs)"
+    ],
+    "bridgeModules": ["Green Energy Safety Essentials", "Solar Controller Troubleshooting"],
+    "nearestCentre": {
+      "id": "tc-001",
+      "name": "PMKK Sadar Lucknow",
+      "distanceKm": 4.2,
+      "estimatedTravelTimeMinutes": 15
+    },
+    "durationWeeks": 6,
+    "localDemandSignal": "High (14 solar vendor tie-ups active in district)",
+    "rplEligible": true,
+    "estimatedEarnings": "₹16,000 - ₹24,000 / month",
+    "riskWarning": "Requires working outdoors during summer maintenance peaks; personal protective equipment (PPE) training mandatory.",
+    "nextSteps": [
+      "Complete 1-day RPL skill assessment at PMKK Sadar",
+      "Submit Class 10 mark sheet copy to facilitator",
+      "Apply for PM-AJAY micro-enterprise grant assistance"
+    ],
+    "milestones": [
+      {
+        "title": "RPL Assessment & Screening",
+        "description": "Evaluate current 2-year pump repair knowledge to skip basic modules",
+        "duration": "Day 1 - 3",
+        "status": "pending"
+      },
+      {
+        "title": "Bridge Skill Modules",
+        "description": "Hands-on training in solar PV installation, inverter testing & wiring",
+        "duration": "Weeks 1 - 3",
+        "status": "pending"
+      },
+      {
+        "title": "Hands-on Field Internship",
+        "description": "On-site installation with district solar EPC contractor",
+        "duration": "Weeks 4 - 6",
+        "status": "pending"
+      },
+      {
+        "title": "NSQF Level 3 Assessment & Certification",
+        "description": "NCS / ESSCI practical examination",
+        "duration": "Week 7",
+        "status": "pending"
+      },
+      {
+        "title": "Enterprise Setup & Toolkit Disbursement",
+        "description": "Receive PM-AJAY tool kit and register on Solar Service Portal",
+        "duration": "Day 60",
+        "status": "pending"
+      }
+    ],
+    "dataStatus": "demo_seeded"
+  },
+  {
+    "id": "pathway-food-prep",
+    "rank": 2,
+    "qpCode": "FIC/Q0103",
+    "title": "Food Processing Micro-Entrepreneur",
+    "nsqfLevel": 4,
+    "sector": "Food Processing & Agriculture",
+    "suitabilityScore": 86,
+    "fitReason": "Strong fit for local agriculture product surplus in district with low barrier to micro-enterprise setup.",
+    "matchReasons": [
+      "Utilizes existing local agricultural network in Sadar block",
+      "Aligned with self-employment and SHG cluster grants",
+      "High local demand for hygienic pulse milling and organic flour packaging"
+    ],
+    "skillGaps": [
+      "FSSAI food hygiene standards & labeling (15 hrs)",
+      "Costing, packaging & digital payment setup (25 hrs)"
+    ],
+    "bridgeModules": ["FSSAI Basic Hygiene", "Rural Micro-Enterprise Financial Literacy"],
+    "nearestCentre": {
+      "id": "tc-002",
+      "name": "Jan Shikshan Sansthan (JSS) Rural Hub",
+      "distanceKm": 12.8,
+      "estimatedTravelTimeMinutes": 30
+    },
+    "durationWeeks": 8,
+    "localDemandSignal": "Moderate-High (PM Formalisation of Micro Food Processing Enterprises scheme active)",
+    "rplEligible": false,
+    "estimatedEarnings": "₹15,000 - ₹22,000 / month",
+    "riskWarning": "Requires initial working capital management for seasonal grain purchase.",
+    "nextSteps": [
+      "Attend 3-day enterprise awareness workshop at JSS",
+      "Draft sample product packaging cost plan with facilitator"
+    ],
+    "milestones": [
+      {
+        "title": "Entrepreneurship Orientation",
+        "description": "Market survey & food product selection",
+        "duration": "Week 1",
+        "status": "pending"
+      },
+      {
+        "title": "Technical Processing Training",
+        "description": "Equipment operation, hygiene standards & packaging",
+        "duration": "Weeks 2 - 5",
+        "status": "pending"
+      },
+      {
+        "title": "FSSAI Registration & Loan Application",
+        "description": "Facilitator-guided registration and bank linkage",
+        "duration": "Weeks 6 - 8",
+        "status": "pending"
+      }
+    ],
+    "dataStatus": "demo_seeded"
+  },
+  {
+    "id": "pathway-sewing-spec",
+    "rank": 3,
+    "qpCode": "AMH/Q0301",
+    "title": "Apparel Sewing Machine Operator",
+    "nsqfLevel": 3,
+    "sector": "Apparel & Textiles",
+    "suitabilityScore": 78,
+    "fitReason": "Good fallback for immediate wage employment in textile cluster within 15 km.",
+    "matchReasons": [
+      "Low prerequisites, quick 5-week certification",
+      "Direct wage placement guarantee at nearby garment export cluster",
+      "Free transport provided by PMKK center"
+    ],
+    "skillGaps": [
+      "Single-needle lockstitch machine speed control (30 hrs)",
+      "Garment measurement specification reading (10 hrs)"
+    ],
+    "bridgeModules": ["Industrial Sewing Machine Maintenance", "Quality Inspection"],
+    "nearestCentre": {
+      "id": "tc-001",
+      "name": "PMKK Sadar Lucknow",
+      "distanceKm": 4.2,
+      "estimatedTravelTimeMinutes": 15
+    },
+    "durationWeeks": 5,
+    "localDemandSignal": "Moderate (Continuous hiring by Lucknow Garment Park)",
+    "rplEligible": true,
+    "estimatedEarnings": "₹12,000 - ₹16,000 / month",
+    "riskWarning": "Monotonous sitting position; strict shift timings in factory setup.",
+    "nextSteps": [
+      "Visit PMKK Sadar workshop for 1-hour trial session",
+      "Register for batch starting next Monday"
+    ],
+    "milestones": [
+      {
+        "title": "Machine Handling Basics",
+        "description": "Thread tensioning, straight seam practice",
+        "duration": "Weeks 1 - 2",
+        "status": "pending"
+      },
+      {
+        "title": "Garment Assembly Training",
+        "description": "Stitching collars, sleeves & pockets",
+        "duration": "Weeks 3 - 4",
+        "status": "pending"
+      },
+      {
+        "title": "Practical Assessment & Factory Placement",
+        "description": "On-campus placement drive with textile vendors",
+        "duration": "Week 5",
+        "status": "pending"
+      }
+    ],
+    "dataStatus": "demo_seeded"
+  }
+]

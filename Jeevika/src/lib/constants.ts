@@ -1,0 +1,81 @@
+import { LanguageOption, InterviewQuestion } from '../types';
+
+export const SUPPORTED_LANGUAGES: LanguageOption[] = [
+  { code: 'hi', nameNative: 'हिंदी', nameEnglish: 'Hindi', region: 'North & Central India' },
+  { code: 'en', nameNative: 'English', nameEnglish: 'English', region: 'Pan-India' },
+  { code: 'mr', nameNative: 'मराठी', nameEnglish: 'Marathi', region: 'Maharashtra' },
+  { code: 'bn', nameNative: 'বাংলা', nameEnglish: 'Bengali', region: 'West Bengal' },
+  { code: 'ta', nameNative: 'தமிழ்', nameEnglish: 'Tamil', region: 'Tamil Nadu' },
+  { code: 'te', nameNative: 'తెలుగు', nameEnglish: 'Telugu', region: 'Andhra Pradesh & Telangana' },
+  { code: 'or', nameNative: 'ଓଡ଼ିଆ', nameEnglish: 'Odia', region: 'Odisha' },
+  { code: 'gu', nameNative: 'ગુજરાતી', nameEnglish: 'Gujarati', region: 'Gujarat' },
+  { code: 'kn', nameNative: 'ಕನ್ನಡ', nameEnglish: 'Kannada', region: 'Karnataka' },
+  { code: 'ml', nameNative: 'മലയാളം', nameEnglish: 'Malayalam', region: 'Kerala' },
+];
+
+export const INTERVIEW_QUESTIONS: InterviewQuestion[] = [
+  {
+    id: 1,
+    key: 'currentWork',
+    promptHi: 'आप अभी किस प्रकार का काम करते हैं या पहले किया है?',
+    promptEn: 'What kind of work do you do now or have done previously?',
+    quickChipsHi: ['खेती / कृषि कार्य', 'सोलर / बिजली मरम्मत', 'सिलाई और टेलरिंग', 'दुकानदार / रिटेल असिस्टेंट', 'कोई औपचारिक काम नहीं'],
+    quickChipsEn: ['Farming / Agriculture', 'Solar / Electrical Repair', 'Stitching & Tailoring', 'Shopkeeping / Retail', 'No formal experience'],
+  },
+  {
+    id: 2,
+    key: 'workExperienceYears',
+    promptHi: 'आपको इस काम का कितने समय का अनुभव है?',
+    promptEn: 'How long have you done this work?',
+    quickChipsHi: ['६ महीने से कम', '१ - २ साल', '३ - ५ साल', '५ साल से अधिक'],
+    quickChipsEn: ['Less than 6 months', '1 - 2 years', '3 - 5 years', 'More than 5 years'],
+  },
+  {
+    id: 3,
+    key: 'education',
+    promptHi: 'आपकी उच्चतम शिक्षा या योग्यता क्या है?',
+    promptEn: 'What is the highest class or qualification you completed?',
+    quickChipsHi: ['८वीं कक्षा पास', '१०वीं (हाईस्कूल) पास', '१२वीं पास', 'आईटीआई / डिप्लोमा', 'अनपढ़ / अनौपचारिक'],
+    quickChipsEn: ['Class 8 Passed', 'Class 10 Passed', 'Class 12 Passed', 'ITI / Diploma', 'Informal education'],
+  },
+  {
+    id: 4,
+    key: 'interestArea',
+    promptHi: 'आपको किस प्रकार के काम में सबसे अधिक रुचि है?',
+    promptEn: 'What type of work interests you most?',
+    quickChipsHi: ['सोलर एवं हरित ऊर्जा', 'खाद्य प्रसंस्करण व कृषि व्यापार', 'कपड़ा सिलाई व डिज़ाइन', 'ऑटोमोबाइल मरम्मत'],
+    quickChipsEn: ['Green Energy & Solar', 'Food Processing & Agribusiness', 'Apparel & Sewing', 'Automobile Maintenance'],
+  },
+  {
+    id: 5,
+    key: 'employmentType',
+    promptHi: 'आप वेतन वाली नौकरी पसंद करेंगे या खुद का स्वरोजगार?',
+    promptEn: 'Would you prefer wage employment, self-employment or either?',
+    quickChipsHi: ['खुद का स्वरोजगार (Micro-Enterprise)', 'वेतन वाली स्थिर नौकरी', 'दोनों में से कोई भी'],
+    quickChipsEn: ['Self-employment / Enterprise', 'Steady Wage Employment', 'Either option'],
+  },
+  {
+    id: 6,
+    key: 'maxTravelKm',
+    promptHi: 'प्रशिक्षण या काम के लिए आप कितनी दूर यात्रा कर सकते हैं?',
+    promptEn: 'How far can you travel daily for training or work?',
+    quickChipsHi: ['१० किमी के भीतर', '२५ किमी तक (ब्लॉक स्तर)', '५० किमी तक (जिला स्तर)'],
+    quickChipsEn: ['Within 10 km', 'Up to 25 km (Block level)', 'Up to 50 km (District)'],
+  },
+  {
+    id: 7,
+    key: 'migration',
+    promptHi: 'क्या आप काम के लिए दूसरे शहर या राज्य जाने को तैयार हैं?',
+    promptEn: 'Would you be willing to migrate to another city or state for work?',
+    quickChipsHi: ['हाँ, तैयार हूँ', 'केवल अपने जिले में रहूँगा', 'केवल अपने ब्लॉक/गाँव में'],
+    quickChipsEn: ['Yes, willing to migrate', 'Only within district', 'Only within local block'],
+  },
+  {
+    id: 8,
+    key: 'constraints',
+    promptHi: 'क्या ऐसी कोई चीज़ है जो यात्रा या काम को कठिन बनाती है?',
+    promptEn: 'Is there anything that makes travel or certain physical work difficult for you?',
+    quickChipsHi: ['वाहन की कमी', 'परिवार की देखभाल की जिम्मेदारी', 'कोई विशेष कठिनाई नहीं'],
+    quickChipsEn: ['Lack of transport', 'Family care duties', 'No major difficulty'],
+  },
+];

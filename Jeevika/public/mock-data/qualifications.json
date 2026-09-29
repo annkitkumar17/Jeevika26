@@ -1,0 +1,41 @@
+[
+  {
+    "qpCode": "ELE/Q6301",
+    "title": "Solar Pump Technician",
+    "nsqfLevel": 3,
+    "sector": "Green Energy & Electronics",
+    "description": "Assembles, installs, tests and maintains agricultural solar water pumping systems and micro-inverters.",
+    "prerequisites": "Class 10 completed or 1 year relevant mechanical/electrical experience",
+    "durationHours": 300,
+    "rplEligible": true,
+    "avgSalaryRange": "₹15,000 - ₹22,000 / month",
+    "selfEmploymentPotential": "High (Solar service enterprise setup)",
+    "dataStatus": "demo_seeded"
+  },
+  {
+    "qpCode": "FIC/Q0103",
+    "title": "Food Processing Entrepreneur",
+    "nsqfLevel": 4,
+    "sector": "Food Processing & Agriculture",
+    "description": "Manages small-scale pulse processing, spice grinding, packaging, quality check and local market supply.",
+    "prerequisites": "Class 8 completed with basic numeracy",
+    "durationHours": 240,
+    "rplEligible": true,
+    "avgSalaryRange": "₹14,000 - ₹25,000 / month (Earnings)",
+    "selfEmploymentPotential": "Very High (PM-AJAY grant + MUDRA loan eligible)",
+    "dataStatus": "demo_seeded"
+  },
+  {
+    "qpCode": "AMH/Q0301",
+    "title": "Sewing Machine Operator & Tailoring Specialist",
+    "nsqfLevel": 3,
+    "sector": "Apparel & Textiles",
+    "description": "Operates industrial single and multi-needle sewing machines to stitch garments and home textiles.",
+    "prerequisites": "Class 8 completed",
+    "durationHours": 280,
+    "rplEligible": true,
+    "avgSalaryRange": "₹12,000 - ₹18,000 / month",
+    "selfEmploymentPotential": "Moderate (Boutique / Job work unit)",
+    "dataStatus": "demo_seeded"
+  }
+]

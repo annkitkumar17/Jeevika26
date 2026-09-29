@@ -1,0 +1,47 @@
+[
+  {
+    "id": "opp-001",
+    "title": "Solar Pump Installation Technician Helper",
+    "provider": "GreenSurge Agro-Solar Solutions",
+    "type": "Micro-Enterprise / Contract",
+    "location": "Sadar Block, Lucknow",
+    "distanceKm": 5.1,
+    "stipendSalary": "₹15,000 - ₹20,000 / month",
+    "qualificationRequired": "Solar Pump Technician (NSQF Level 3) or undergoing RPL",
+    "openings": 4,
+    "latitude": 26.8550,
+    "longitude": 80.9520,
+    "postedDate": "2 days ago",
+    "dataStatus": "demo_seeded"
+  },
+  {
+    "id": "opp-002",
+    "title": "Agro-Equipment Repair Kiosk Grant (PM-AJAY)",
+    "provider": "District Social Welfare Office / PM-AJAY Cell",
+    "type": "Government Grant / Enterprise Support",
+    "location": "Rampur GP Kiosk Site",
+    "distanceKm": 2.5,
+    "stipendSalary": "Up to ₹50,000 Tool Kit + Capital Grant",
+    "qualificationRequired": "Certified in Mechanical / Electrical / Solar Repair",
+    "openings": 10,
+    "latitude": 26.8480,
+    "longitude": 80.9420,
+    "postedDate": "1 week ago",
+    "dataStatus": "demo_seeded"
+  },
+  {
+    "id": "opp-003",
+    "title": "Industrial Garment Machine Operator",
+    "provider": "Awadh Textiles Ltd.",
+    "type": "Wage Employment (Full-time)",
+    "location": "Lucknow Textile Cluster, Sarojini Nagar",
+    "distanceKm": 14.2,
+    "stipendSalary": "₹13,500 + PF/ESI + Bus Transport",
+    "qualificationRequired": "Sewing Machine Operator (NSQF Level 3)",
+    "openings": 25,
+    "latitude": 26.7620,
+    "longitude": 80.8710,
+    "postedDate": "3 days ago",
+    "dataStatus": "demo_seeded"
+  }
+]

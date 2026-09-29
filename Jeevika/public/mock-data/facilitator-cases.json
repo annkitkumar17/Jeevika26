@@ -1,0 +1,90 @@
+[
+  {
+    "id": "case-101",
+    "beneficiaryId": "ben-demo-001",
+    "beneficiaryName": "Rajesh Kumar",
+    "phone": "+91 98765 43210",
+    "block": "Sadar",
+    "village": "Rampur Demo",
+    "recommendedPathway": "Solar Pump Technician",
+    "assignedFacilitator": "Amit Singh (VLE Facilitator)",
+    "verificationStatus": "pending_document_check",
+    "documentChecklist": {
+      "aadhaarConsent": true,
+      "class10Certificate": true,
+      "bankDetails": false,
+      "casteDeclaration": true
+    },
+    "lastInteractionDate": "2026-09-25",
+    "nextFollowUpDate": "2026-09-28",
+    "riskFlag": "Requires bus transportation assistance for training centre",
+    "notes": "Beneficiary interested in PM-AJAY toolkit grant for solar service kiosk.",
+    "dataStatus": "demo_seeded"
+  },
+  {
+    "id": "case-102",
+    "beneficiaryId": "ben-demo-002",
+    "beneficiaryName": "Priya Gautam",
+    "phone": "+91 98123 45678",
+    "block": "Chinhat",
+    "village": "Mati Demo",
+    "recommendedPathway": "Food Processing Entrepreneur",
+    "assignedFacilitator": "Amit Singh (VLE Facilitator)",
+    "verificationStatus": "verified",
+    "documentChecklist": {
+      "aadhaarConsent": true,
+      "class10Certificate": true,
+      "bankDetails": true,
+      "casteDeclaration": true
+    },
+    "lastInteractionDate": "2026-09-24",
+    "nextFollowUpDate": "2026-09-30",
+    "riskFlag": "None",
+    "notes": "Profile verified. Referred to JSS Rural Skill Hub food batch.",
+    "dataStatus": "demo_seeded"
+  },
+  {
+    "id": "case-103",
+    "beneficiaryId": "ben-demo-003",
+    "beneficiaryName": "Sunil Kumar Paswan",
+    "phone": "+91 97654 32109",
+    "block": "Mohanlalganj",
+    "village": "Koraon Demo",
+    "recommendedPathway": "Apparel Sewing Machine Operator",
+    "assignedFacilitator": "Sunita Verma",
+    "verificationStatus": "enrolled",
+    "documentChecklist": {
+      "aadhaarConsent": true,
+      "class10Certificate": true,
+      "bankDetails": true,
+      "casteDeclaration": true
+    },
+    "lastInteractionDate": "2026-09-20",
+    "nextFollowUpDate": "2026-10-05",
+    "riskFlag": "Requires weekend stipend follow-up",
+    "notes": "Enrolled in PMKK Sadar batch. 100% attendance so far.",
+    "dataStatus": "demo_seeded"
+  },
+  {
+    "id": "case-104",
+    "beneficiaryId": "ben-demo-004",
+    "beneficiaryName": "Rani Devi",
+    "phone": "+91 96543 21098",
+    "block": "Bakshi Ka Talab",
+    "village": "Bargadi Demo",
+    "recommendedPathway": "Food Processing Entrepreneur",
+    "assignedFacilitator": "Sunita Verma",
+    "verificationStatus": "action_required",
+    "documentChecklist": {
+      "aadhaarConsent": true,
+      "class10Certificate": false,
+      "bankDetails": false,
+      "casteDeclaration": true
+    },
+    "lastInteractionDate": "2026-09-22",
+    "nextFollowUpDate": "2026-09-27",
+    "riskFlag": "Missing bank account linkage",
+    "notes": "Facilitator needs to assist with Jan Dhan account opening.",
+    "dataStatus": "demo_seeded"
+  }
+]

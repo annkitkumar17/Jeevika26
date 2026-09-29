@@ -1,0 +1,65 @@
+{
+  "district": "Lucknow",
+  "state": "Uttar Pradesh",
+  "lastUpdated": "2026-09-27",
+  "kpis": {
+    "totalBeneficiariesProfiled": 1284,
+    "recommendationAcceptanceRate": 84.6,
+    "activeEnrolments": 742,
+    "placementEnterpriseOutcomes": 518,
+    "dataStatus": "demo_seeded"
+  },
+  "monthlyTrend": [
+    { "month": "Apr", "profiled": 110, "enrolled": 65, "outcomes": 40 },
+    { "month": "May", "profiled": 145, "enrolled": 90, "outcomes": 55 },
+    { "month": "Jun", "profiled": 190, "enrolled": 125, "outcomes": 80 },
+    { "month": "Jul", "profiled": 240, "enrolled": 160, "outcomes": 105 },
+    { "month": "Aug", "profiled": 285, "enrolled": 190, "outcomes": 130 },
+    { "month": "Sep", "profiled": 314, "enrolled": 212, "outcomes": 158 }
+  ],
+  "sectorBreakdown": [
+    { "sector": "Green Energy & Solar", "value": 412, "percentage": 32.1 },
+    { "sector": "Food Processing & Agri", "value": 345, "percentage": 26.8 },
+    { "sector": "Apparel & Textiles", "value": 298, "percentage": 23.2 },
+    { "sector": "Automotive & Mechanics", "value": 145, "percentage": 11.3 },
+    { "sector": "Electronics & IT", "value": 84, "percentage": 6.6 }
+  ],
+  "blockLivelihoodSignals": [
+    { "block": "Sadar", "profiled": 380, "topSector": "Green Energy & Solar", "trainingCentreCount": 4, "demandLevel": "High" },
+    { "block": "Chinhat", "profiled": 310, "topSector": "Food Processing & Agri", "trainingCentreCount": 3, "demandLevel": "High" },
+    { "block": "Mohanlalganj", "profiled": 245, "topSector": "Apparel & Textiles", "trainingCentreCount": 2, "demandLevel": "Medium" },
+    { "block": "Bakshi Ka Talab", "profiled": 215, "topSector": "Green Energy & Solar", "trainingCentreCount": 2, "demandLevel": "High" },
+    { "block": "Sarojini Nagar", "profiled": 134, "topSector": "Automotive & Mechanics", "trainingCentreCount": 2, "demandLevel": "Medium" }
+  ],
+  "trainingProviders": [
+    {
+      "name": "PMKK Sadar Lucknow",
+      "capacity": 200,
+      "activeBatch": 165,
+      "placementRate": 88.5,
+      "status": "Operational"
+    },
+    {
+      "name": "Jan Shikshan Sansthan Chinhat",
+      "capacity": 150,
+      "activeBatch": 130,
+      "placementRate": 84.0,
+      "status": "Operational"
+    },
+    {
+      "name": "Govt ITI Alambagh",
+      "capacity": 300,
+      "activeBatch": 270,
+      "placementRate": 91.2,
+      "status": "Operational"
+    },
+    {
+      "name": "RSETI Sarojini Nagar",
+      "capacity": 100,
+      "activeBatch": 85,
+      "placementRate": 82.4,
+      "status": "Operational"
+    }
+  ],
+  "dataStatus": "demo_seeded"
+}

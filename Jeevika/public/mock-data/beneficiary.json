@@ -1,0 +1,43 @@
+{
+  "id": "ben-demo-001",
+  "name": "Rajesh Kumar",
+  "phone": "+91 98765 43210",
+  "language": "hi",
+  "gender": "Male",
+  "age": 24,
+  "category": "SC (PM-AJAY beneficiary)",
+  "location": {
+    "state": "Uttar Pradesh",
+    "district": "Lucknow",
+    "block": "Sadar",
+    "gp": "Rampur GP",
+    "village": "Rampur Demo",
+    "pincode": "226001",
+    "latitude": 26.8467,
+    "longitude": 80.9462,
+    "dataStatus": "demo_seeded"
+  },
+  "education": "Class 10 Passed",
+  "currentWork": "Assists with agricultural pump repair & informal electrician help",
+  "workExperienceYears": 2,
+  "skills": ["Basic mechanical repair", "Electrical wire stripping", "Tool handling", "Customer interaction"],
+  "aspirations": "Wants stable income through solar equipment installation or own repair enterprise",
+  "preferences": {
+    "employmentType": "self_employment",
+    "maxTravelKm": 25,
+    "migration": false,
+    "hasVehicle": true,
+    "preferredSector": "Green Energy & Electronics"
+  },
+  "extractedProfile": {
+    "educationLevel": "Secondary (10th)",
+    "primarySkillSet": "Mechanical & Electrical Repair",
+    "yearsExperience": "2 years informal",
+    "mobilityPreference": "Within district (up to 25 km)",
+    "preferredOutcome": "Self-employment / Micro-enterprise",
+    "confidenceScore": 92,
+    "dataStatus": "demo_seeded"
+  },
+  "enrolledPathwayId": null,
+  "status": "profile_confirmed"
+}
