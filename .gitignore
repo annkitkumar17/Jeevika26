@@ -1,4 +1,6 @@
 # Dependencies
+package-lock.json
+Jeevika/package-lock.json
 node_modules/
 Jeevika/node_modules/
 dist/

@@ -1,6 +1,7 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "buildCommand": "cd Jeevika && npm install && npm run build",
+  "installCommand": "npm install --include=optional",
+  "buildCommand": "cd Jeevika && npm install --include=optional && npm run build",
   "outputDirectory": "Jeevika/dist",
   "framework": "vite",
   "rewrites": [
